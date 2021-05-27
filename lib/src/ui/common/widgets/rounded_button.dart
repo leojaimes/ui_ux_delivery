@@ -20,7 +20,7 @@ class RoundedButton extends StatelessWidget {
     this.borderColor = primaryColor,
     this.fullWidth = true,
     this.padding = const EdgeInsets.symmetric(vertical: 9, horizontal: 30),
-    this.fontSize = 0.0,
+    this.fontSize = 16.0,
   }) : super(key: key);
 
   @override
