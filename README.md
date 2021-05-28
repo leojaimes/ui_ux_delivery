@@ -14,3 +14,9 @@ Creación de la página de Login
 videos Sección 11
 video 151 campos de texto autovalidables
 video 153 Inicio patron repository
+
+
+# Part 3
+## videos Sección 11 154 - 160
+Se crea el authentication_repository.dart video 154
+video 155 CupertinoProgressIndicator funcionalidad del submit login
